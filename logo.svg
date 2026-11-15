@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" class="brand-sign-svg w-full h-full select-none" style="overflow: visible;">
+  <g class="sign-graphics">
+    <!-- Outer thick circular rim of cup -->
+    <circle cx="45" cy="50" r="35" fill="none" stroke="#FFFFFF" stroke-width="4.5" />
+
+    <!-- Inner concentric cup groove -->
+    <circle cx="45" cy="50" r="29.5" fill="none" stroke="#FFFFFF" stroke-width="1.8" />
+
+    <!-- Cup Handle on right side (4:30 position) -->
+    <path d="M 72 52 C 86 54, 91 63, 86 73 C 81 81, 71 80, 64 72" 
+          fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" />
+    <!-- Clasp tabs where handle joins rim -->
+    <rect x="70" y="52" width="3.8" height="7" rx="1.2" fill="#FFFFFF" transform="rotate(20, 72, 55)" />
+    <rect x="62" y="69" width="3.8" height="6.5" rx="1.2" fill="#FFFFFF" transform="rotate(45, 64, 72)" />
+
+    <!-- Two Tea Leaves sprouting at top right rim (1 o'clock) -->
+    <!-- Upright main leaf -->
+    <path d="M 52 23 C 54 11, 64 9, 68 15 C 69 22, 62 26, 55 24 Z" fill="#FFFFFF" />
+    <path d="M 54 23 Q 61 16 66 14" fill="none" stroke="#000000" stroke-width="0.8" opacity="0.6" />
+
+    <!-- Side leaf -->
+    <path d="M 64 20 C 68 14, 76 15, 77 19 C 75 25, 69 26, 65 21 Z" fill="#FFFFFF" />
+    <path d="M 65 21 Q 71 17 75 18" fill="none" stroke="#000000" stroke-width="0.7" opacity="0.6" />
+
+    <!-- MONOGRAM «З В»: DISTINCT, WIDELY SEPARATED, CLEARLY LEGIBLE -->
+    <!-- Letter З (Positioned clearly on Left, x: 27 to 42) -->
+    <path d="M 31 40 C 33 36, 38 34.5, 42 36.5 C 44.5 38, 45 42, 42 44 C 40 45, 38 45.5, 36 46 C 40 47, 44 49, 44 55 C 44 61, 39 64, 34 64 C 29 64, 27 60, 27 58 C 27 56.5, 29 56, 30.5 56.5 C 32 57, 33 59, 35 59.5 C 37 60, 39.5 58.5, 39.5 55 C 39.5 51, 36 49, 32 49 L 32 46.5 C 36 46.5, 40.5 44, 40 40 C 39.5 37.5, 36 37, 34 38 C 32 39, 31 40.5, 30 40.5 C 29 40.5, 29.5 39.5, 31 40 Z" 
+          fill="#FFFFFF" />
+
+    <!-- Letter В (Positioned clearly on Right with clear negative space gap, x: 48 to 64) -->
+    <path d="M 49 37 C 51 36.5, 53 37, 52.5 39 L 50 61.5 C 49.5 63.5, 48 64, 46.5 63 C 45.5 62, 46.5 61, 47 60 L 48.5 49 C 51 49, 56.5 49.5, 59.5 52 C 63.5 55, 63.5 60, 60.5 62.5 C 57.5 65, 51 65, 48.5 63.5 C 50.5 65, 56 66.5, 59.5 64 C 64.5 60.5, 64.5 54, 60 50.5 C 57 48.5, 52.5 48, 49.5 48 C 52.5 47, 57.5 45.5, 57 41 C 56.5 36.5, 51.5 35, 48.5 35.5 C 46.5 36, 45.5 37, 46.5 38 C 47.5 38.5, 48 37.5, 49 37 Z M 49 46 L 50 39 C 53 38.8, 55 39.8, 55 41.5 C 55 43.5, 53 45.5, 49 46 Z M 48.5 58 L 49.5 50.5 C 53 50.5, 59 51.5, 58.5 56 C 58 58.5, 54 59.5, 49 58.8 C 48.8 58.7, 48.6 58.4, 48.5 58 Z" 
+          fill="#FFFFFF" />
+  </g>
+</svg>
